@@ -20,7 +20,7 @@ There was beer, I drank it.  The End. p.s. Thanks Jabber.
 **00Fatness** (Captain)
 ![00Fatness](/assets/img/00Fatness.jpeg)
 
-**Cootcat**
+**Coolcat**
 ![Coolcat](/assets/img/Coolcat.jpeg)
 
 **Jabber**
