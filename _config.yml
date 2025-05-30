@@ -20,11 +20,10 @@ author: OnlyFatness
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - The Beerists Podcast: "https://www.facebook.com/TheBeerists"
+    - USA Armageddon Lasertag Tournament: "https://www.facebook.com/groups/A20XXUS/"
 
 ################
 # --- Logo --- #
