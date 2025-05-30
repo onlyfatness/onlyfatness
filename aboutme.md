@@ -14,3 +14,28 @@ What else do you need?
 ### My story
 
 There was beer, I drank it.  The End. p.s. Thanks Jabber.
+
+### The team
+
+**00Fatness** (Captain)
+![00Fatness](/assets/img/00Fatness.jpeg)
+
+**Cootcat**
+![Coolcat](/assets/img/Coolcat.jpeg)
+
+**Jabber**
+![Jabber](/assets/img/Jabber.jpeg)
+
+**The Brit**
+![The Brit](/assets/img/TheBrittjpeg.jpeg)
+
+**Cookie**
+![Cookie](/assets/img/Cookie.jpg)
+
+**Clueless**
+![Clueless](/assets/img/Clueless.jpeg)
+
+**Woz**
+
+**Cody**
+
