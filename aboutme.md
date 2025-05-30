@@ -18,18 +18,23 @@ There was beer, I drank it.  The End. p.s. Thanks Jabber.
 ### The team
 
 **00Fatness** (Captain)
+
 ![00Fatness](/assets/img/00Fatness.jpeg)
 
 **Coolcat**
+
 ![Coolcat](/assets/img/Coolcat.jpeg)
 
 **Jabber**
+
 ![Jabber](/assets/img/Jabber.jpeg)
 
 **The Brit**
+
 ![The Brit](/assets/img/TheBrittjpeg.jpeg)
 
 **Cookie**
+
 ![Cookie](/assets/img/Cookie.jpg)
 
 **Clueless**
