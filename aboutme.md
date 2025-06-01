@@ -45,5 +45,7 @@ There was beer, we drank it.  The End. p.s. Thanks Jabber.
 
 ![Woz](/assets/img/Kassidy.jpg)
 
-**Cody**
+**SnipMyNips**
+
+![SnipMyNips](/assets/img/cody.jpg)
 
