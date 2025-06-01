@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About OnlyFatness
-subtitle: It's all about the fatness and beer
+subtitle: It's all about the fatness and beer (and bit of lasertag)
 ---
 
 This website is here so you can enjoy: 
@@ -16,6 +16,8 @@ What else do you need?
 There was beer, we drank it.  The End. p.s. Thanks Jabber.
 
 ### The team
+
+The USA Armageddon 2025 team line-up is:
 
 **00Fatness** (Captain)
 
