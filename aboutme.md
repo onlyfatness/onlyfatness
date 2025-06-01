@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About OnlyFatness
-subtitle: It's all about the fatness and beer (and bit of lasertag)
+subtitle: It's all about the fatness and beer (and a bit of lasertag)
 ---
 
 This website is here so you can enjoy: 
