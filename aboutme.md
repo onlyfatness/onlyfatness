@@ -38,9 +38,12 @@ There was beer, I drank it.  The End. p.s. Thanks Jabber.
 ![Cookie](/assets/img/Cookie.jpg)
 
 **Clueless**
+
 ![Clueless](/assets/img/Clueless.jpeg)
 
 **Woz**
+
+![Woz](/assets/img/Kassidy.jpg)
 
 **Cody**
 
