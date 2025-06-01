@@ -11,9 +11,9 @@ This website is here so you can enjoy:
 
 What else do you need?
 
-### My story
+### Our story
 
-There was beer, I drank it.  The End. p.s. Thanks Jabber.
+There was beer, we drank it.  The End. p.s. Thanks Jabber.
 
 ### The team
 
