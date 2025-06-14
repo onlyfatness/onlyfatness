@@ -3,8 +3,8 @@ layout: post
 title: Jabber's beer list for day 1
 subtitle: Should just about see us through day 1 of Armageddon.
 cover-img: /assets/img/ToastCanBanner.webp
-thumbnail-img: /assets/img/beercans.png
-share-img: /assets/img/beercans.png
+thumbnail-img: /assets/img/beercans.jpg
+share-img: /assets/img/beercans.jpg
 tags: [food, beer, armageddon, bus]
 author: OnlyFatness
 ---
