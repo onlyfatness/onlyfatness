@@ -5,7 +5,7 @@ subtitle: Should just about see us through day 1 of Armageddon.
 cover-img: /assets/img/ToastCanBanner.webp
 thumbnail-img: /assets/img/beercans.jpg
 share-img: /assets/img/beercans.jpg
-tags: [food, beer, armageddon, bus]
+tags: [beer, armageddon]
 author: OnlyFatness
 ---
 
