@@ -5,7 +5,7 @@ subtitle: European beer
 cover-img: /assets/img/kronenbourgbanner.jpg
 thumbnail-img: /assets/img/Kronenbourg-1664.jpg
 share-img: /assets/img/fatness-kronenbourg.jpg
-tags: [food, beer, armageddon, bus]
+tags: [fatness, beer, european]
 author: OnlyFatness
 ---
 
