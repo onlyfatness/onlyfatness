@@ -3,7 +3,7 @@ layout: post
 title: Classic Drunk DK
 subtitle: The evils of chocolate cake
 cover-img: /assets/img/dknose.jpeg
-thumbnail-img: /assets/img/dkfocus.jpeg
+thumbnail-img: /assets/img/dkbeerbucket.jpeg
 share-img: /assets/img/dkfocus.jpeg
 tags: [nofood, beer, armageddon, chocolatecake]
 author: OnlyFatness
