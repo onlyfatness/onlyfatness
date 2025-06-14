@@ -3,8 +3,8 @@ layout: post
 title: Beer Fast NOW
 subtitle: Coolcat demoing how to drink beer fast
 cover-img: /assets/img/budlight-responsible.webp
-thumbnail-img: /assets/img/coolcatpipework.jpg
-share-img: /assets/img/coolcatpipework.jpg
+thumbnail-img: /assets/img/coolcat-pipework.jpg
+share-img: /assets/img/coolcat-pipework.jpg
 tags: [beer, armageddon]
 author: OnlyFatness
 ---
