@@ -9,7 +9,7 @@ tags: [fatness, beer, european]
 author: OnlyFatness
 ---
 
-Fatness enoughing a cold can of Kronenbourg 1664.
+Fatness enjoying a cold can of Kronenbourg 1664.
 
 ![Kronenbourg](/assets/img/fatness-kronenbourg.jpg)
 
