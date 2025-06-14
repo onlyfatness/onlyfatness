@@ -10,7 +10,7 @@ author: OnlyFatness
 ---
 
 Coolcat's main objective - drink beer as fast as possible.  First prepare the beer for loading.
-![CoolcatLoadingBeer](/assets/img/coolcat-pipeworkprep.jpg)
+![CoolcatLoadingBeer](/assets/img/coolcat-pipeworkprep.jpeg)
 
 Then load that beer as fast as you can...
 ![CoolcatDrinkingBeer](/assets/img/coolcat-pipework.jpg)
