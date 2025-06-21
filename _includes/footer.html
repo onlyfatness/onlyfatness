@@ -5,7 +5,6 @@
       {% include social-networks-links.html %}
       {% if page.footer-extra %}
         <div class="footer-custom-content">
-          This is a parody website unconnected with any other website or organisation and is intended for humour only.
           {% for file in page.footer-extra %}
             {% include {{ file }} %}
           {% endfor %}
@@ -24,7 +23,7 @@
           <a href="{% if site.url-canonical %}{{ site.url-canonical }}{% else %}{{ '/' | absolute_url }}{% endif %}">{{ site.url-pretty }}</a>
         </span>
       {% endif %}
-
+    This is a parody website unconnected with any other website or organisation and is intended for humour only.
       {% if site.matomo %}
         {% if site.matomo.opt-out %}
           &nbsp;&bull;&nbsp;
