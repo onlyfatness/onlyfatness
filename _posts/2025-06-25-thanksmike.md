@@ -4,7 +4,7 @@ title: Thanks to the creator of this site
 cover-img: /assets/img/OnlyFatnessNameWhite.png
 thumbnail-img: /assets/img/fatness-thanksmike.png
 share-img: /assets/img/fatness-thanksmike.png
-tags: [armageddon, beer, fatness, subscriber]
+tags: [armageddon, beer, fatness, thanks]
 author: OnlyFatness
 ---
 
