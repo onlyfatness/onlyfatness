@@ -49,7 +49,7 @@ The USA Armageddon 2025 team line-up is:
 
 **SnipMyNips**
 
-![SnipMyNips](/assets/img/cody.jpg)
+![SnipMyNips](/assets/img/cody2.jpg)
 
 **Lonewolf**
 
