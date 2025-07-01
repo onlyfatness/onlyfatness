@@ -9,7 +9,7 @@ tags: [armageddon, beer]
 author: OnlyFatness
 ---
 
-Everyone as asked to provide a photo for the About Us page.  Somehow Cody managed to create a video of him doing unspeakable things to his drink!
+Everyone was asked to provide a photo for the About Us page.  Somehow Cody managed to create a video of him doing unspeakable things to his drink instead!
 
 <video controls>
   <source src="/assets/video/cody-bottle-no-gag-reflex.mp4" type="video/mp4" />
