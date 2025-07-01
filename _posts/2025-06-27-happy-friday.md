@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Friday and welcome to Armageddon
+title: Happy Friday Everyone!
 subtitle: Fatness welcomes our latest subscribers.
 cover-img: /assets/img/OnlyFatnessNameWhite.png
 thumbnail-img: /assets/img/fatness-beer2.jpg
