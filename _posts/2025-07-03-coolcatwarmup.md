@@ -11,5 +11,5 @@ author: OnlyFatness
 
 We have a real treat for all you subscribers into Shots and LaserTrek.  Coolcat gives us a run down of how he prepares for Armageddon.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hcHPzOl2P3Y?si=HGSKkvDSGst_lR-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lwCDpAju2bY?si=aQ_rB8PH9HaYWpnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
 
