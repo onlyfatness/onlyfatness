@@ -23,17 +23,15 @@ The USA Armageddon 2025 team line-up is:
 
 ![00Fatness](/assets/img/00Fatness.jpeg)
 
+**Swazz**
+![Swazz](/assets/img/Swazz.jpeg)
+
+**M1cro**
+![M1cro](/assets/img/M1cro.jpeg)
+
 **Coolcat**
 
 ![Coolcat](/assets/img/Coolcat.jpeg)
-
-**Jabber**
-
-![Jabber](/assets/img/Jabber.jpeg)
-
-**The Brit**
-
-![The Brit](/assets/img/TheBrittjpeg.jpeg)
 
 **Cookie**
 
@@ -47,11 +45,11 @@ The USA Armageddon 2025 team line-up is:
 
 ![Woz](/assets/img/Kassidy.jpg)
 
-**SnipMyNips**
-
-![SnipMyNips](/assets/img/cody2.jpg)
-
 **Lonewolf**
 
 ![Lonewolf](/assets/img/lonewolf.jpg)
+
+**The Brit**
+
+![The Brit](/assets/img/TheBrittjpeg.jpeg)
 
