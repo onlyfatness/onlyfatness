@@ -20,7 +20,7 @@ author: OnlyFatness
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About Us:
     - 2026 Team: "aboutme"
     - 2025 Team: "about2025"
   Support Beer: "https://www.paypal.com/pool/9fHJaMkVb1?sr=wccr"
