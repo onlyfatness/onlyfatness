@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About OnlyFatness
+title: About OnlyFatness 2026
 subtitle: It's all about the fatness and beer (and a bit of lasertag)
 ---
 
@@ -17,7 +17,7 @@ There was beer, we drank it.  The End. p.s. Thanks Jabber.
 
 ### The team
 
-The USA Armageddon 2025 team line-up is:
+The USA Armageddon 2026 team line-up is:
 
 **00Fatness** (Captain)
 
