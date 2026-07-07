@@ -13,7 +13,7 @@ What else do you need?
 
 ### Our story
 
-There was beer, we drank it.  The End. p.s. Thanks Jabber.
+There was beer, we drank it, we played lasertag, we liked it so much we did it again.  Raise a glass to another year of OnlyFatness!
 
 ### The team
 
