@@ -26,6 +26,11 @@ navbar-links:
   Support Beer: "https://www.paypal.com/pool/9fHJaMkVb1?sr=wccr"
   Merch:
     - Printful $5 off: "http://www.printful.com/give-5-get-5/MN8757"
+    - OnlyFatness 2026 T-shirt: "https://www.printful.com/product-template/104075679/0aac0ecbaa0760ce0eee11f8f4da33e3"
+    - OnlyFatness 2026 Cap: "https://www.printful.com/product-template/104241058/43c0a8b90a6ed11fd68174977572fa9d"
+    - OnlyFatness 2026 Glass 1: "https://www.printful.com/product-template/104242915/a6d3f1eb2562624af22fc102a1534a46"
+    - OnlyFatness 2026 Glass 2: "https://www.printful.com/product-template/104243181/4ac66962c5284a85793650e960433992"
+    - Clueageddon T-shirt: "https://www.printful.com/product-template/104255872/240f52dfd2b4b9716b4b242eb7674e11"
     - OnlyFatness 2025 T-shirt: "https://www.printful.com/product-template/89608170/b353a918e72a774b14638ac38f98b8d7"
     - OnlyFatness 2025 Cap: "https://www.printful.com/product-template/89895710/c3cfb4654f92f3323b4778f7c9981299"
     - Merch Info: "merch"
@@ -40,7 +45,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/OnlyFatnessWhite.png"
+avatar: "/assets/img/OnlyFatnessWhite2026.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: false
